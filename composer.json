@@ -1,6 +1,6 @@
 {
-    "name": "incenteev/composer-parameter-handler",
-    "description": "Composer script handling your ignored parameter file",
+    "name": "stefk/incenteev-parameters",
+    "description": "Tmp fork of incenteev/composer-parameter-handler, allowing filter on interactive parameters",
     "keywords": ["parameters management"],
     "homepage": "https://github.com/Incenteev/ParameterHandler",
     "license": "MIT",
